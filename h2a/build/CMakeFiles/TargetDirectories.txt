@@ -1,0 +1,7 @@
+C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2a/build/CMakeFiles/h2a.dir
+C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2a/build/CMakeFiles/edit_cache.dir
+C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2a/build/CMakeFiles/rebuild_cache.dir
+C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2a/build/CMakeFiles/list_install_components.dir
+C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2a/build/CMakeFiles/install.dir
+C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2a/build/CMakeFiles/install/local.dir
+C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2a/build/CMakeFiles/install/strip.dir
