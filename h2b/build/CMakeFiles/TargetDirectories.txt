@@ -1,7 +1,0 @@
-C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2b/build/CMakeFiles/h2b.dir
-C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2b/build/CMakeFiles/edit_cache.dir
-C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2b/build/CMakeFiles/rebuild_cache.dir
-C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2b/build/CMakeFiles/list_install_components.dir
-C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2b/build/CMakeFiles/install.dir
-C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2b/build/CMakeFiles/install/local.dir
-C:/Users/kivin/Documents/OAMK/Olio-ohjelmointi/h2b/build/CMakeFiles/install/strip.dir
